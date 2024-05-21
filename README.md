@@ -3,4 +3,4 @@ O projeto reúne os protótipos criados para um sistema de gestão para uma univ
 
 Link do do projeto no Figma:
 
-https://www.figma.com/design/VAnKBA7uJKkh0X3rgPcf4R/PI---Sistema-de-Gest%C3%A3o?m=dev&t=tYsaSHqLPb7eWpXL-1
+https://www.figma.com/design/VAnKBA7uJKkh0X3rgPcf4R/PI---Sistema-de-Gest%C3%A3o?t=tYsaSHqLPb7eWpXL-1
