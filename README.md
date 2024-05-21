@@ -9,3 +9,17 @@ Em contrapartida, o aluno visualiza as disciplinas nas quais está matriculado e
 Link do projeto no Figma:
 
 https://www.figma.com/design/VAnKBA7uJKkh0X3rgPcf4R/PI---Sistema-de-Gest%C3%A3o?t=tYsaSHqLPb7eWpXL-1
+
+
+Integramtes do grupo:
+
+Bruno Oliveira Maia
+Arthur Paulo Rau
+Carla Alejandra da Rocha Lopes
+Carlos Eduardo Damiao Sousa
+Edmar de Freitas Nascimento da Rocha Alves
+Eduardo de Oliveira
+Fernando Barranco de Lima
+
+(Os demais integrantes do grupo não realizaram a criação de perfis no GitHub)
+
