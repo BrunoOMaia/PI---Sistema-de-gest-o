@@ -8,4 +8,4 @@ Em contrapartida, o aluno visualiza as disciplinas nas quais está matriculado e
 
 Link do projeto no Figma:
 
-https://www.figma.com/design/VAnKBA7uJKkh0X3rgPcf4R/PI---Sistema-de-Gest%C3%A3o?t=tYsaSHqLPb7eWpXL-1
+[https://www.figma.com/design/VAnKBA7uJKkh0X3rgPcf4R/PI---Sistema-de-Gest%C3%A3o?t=tYsaSHqLPb7eWpXL-1
